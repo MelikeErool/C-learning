@@ -8,4 +8,3 @@ C programming fundamentals, practice projects, and examples.
 
 ## Technologies
 - C
-- GCC
